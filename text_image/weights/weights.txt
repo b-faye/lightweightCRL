@@ -1,0 +1,1 @@
+Put the model weights and embeddings for retrieval in this directory.

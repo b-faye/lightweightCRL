@@ -1,0 +1,1 @@
+1. Download the Flickr 8k Dataset and extract it into the current directory.

@@ -1,0 +1,13 @@
+torch
+pandas
+transformers
+tqdm
+sentence-transformers
+numpy
+os
+sys
+random
+tqdm
+itertools
+pycocotools
+
