@@ -1,6 +1,7 @@
 # <center>**Lightweight Cross-Modal Representation Learning**</center>
 
 This repository is an official implementation and applications of Lightweight Cross-Modal Representation Learning (LightCRL).
+## Paper Submitted to ESANN 2024. Bilal FAYE et al.
 
 ## Introduction
 
@@ -285,3 +286,17 @@ The same strategy employed for fusion operations can also be applied to other me
     ```
 ### Demo
 We suggest creating a notebook demo for both "text-text" and "text-image" methods, utilizing pre-trained weights stored in the `weights` directory, where the addition operation is employed.
+
+
+
+If you find LightWeightCRL useful in your research, please consider citing:
+
+```bash
+@inproceedings{faye2024lightweight,
+  title={Lightweight Cross-Modal Representation Learning},
+  author={Faye, Bilal and Azzag, Hanane and Lebbah, Mustapha and Bouchaffra, Djamel},
+  booktitle={European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN)},
+  year={2024}
+}
+```
+
